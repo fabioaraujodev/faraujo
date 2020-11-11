@@ -5,7 +5,7 @@
 
 * Casado e pai de 2 filhos maravilhosos(👨‍👩‍👧‍👦 ), amante de Ciclismo(🚴‍♂️ ) e JiuJitsu(🥋 ), atualmente membro da equipe Ideal Jiu Jitsu .
 
-######Se quiser me conhecer melhor, acesse meu portfólio ou minhas redes sociais abaixo:
+###### Se quiser me conhecer melhor, acesse meu portfólio ou minhas redes sociais abaixo:
 
 [![Portifolio Badge](https://img.shields.io/badge/Portfolio-My%20Digital%20Home-green)](https://fabioaraujo.net)
 [![Blog Badge](https://img.shields.io/badge/about-me)](https://about.me/faraujo)
