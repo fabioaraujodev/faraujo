@@ -1,4 +1,6 @@
 
+MIT License
+
 Copyright (C) 2020 [Fabio Araujo] (https://fabioaraujo.info)
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
