@@ -2,16 +2,16 @@
 
 | Plugin | Descrição |
 | :-------------: |:-------------|
-| Dracula Official | Thema |
-| Color Highlight | Mostrar cores hexadecimal #7159c1 |
+| Dracula Official | Thema escuro |
+| Color Highlight | Exibe cores hexadecimal #7159c1 |
 | DotENV | Cria syntax highlighting para arquivos .env |
 | EditorConfig | Padroniza dos editores , Encod, quebra de linha etc (cria um arquivo .editorconfig padrão) |
 | Live Server | deploy automático de css e html |
 | * Live Share | compartilhamento de tela/código |
 | ESLint | Validador de código JavaScrit |
-| GitLens | Visualizar no código histórico de alteração|
-| Material Icon Theme | icons estilizados
-| Rocketseat react | conjunto de Snippets ou atalhos |
+| GitLens | Exibi histórico de alteração direto no codigo font |
+| Material Icon Theme | icons estilizados |
+| Rocketseat react | conjunto de Snippets ou atalhos para react |
 | Bracket Pair Colorizer | Identificação de (), {} e [] |
 | Code Spell Checker | Corretor Ortográfico (instalar tbm Brazilian Portuguese - Code Spell Checker streetsidesoftware.code-spell-checker-portuguese-brazilian) **configurar** _show spell checker Configuration Info_ |
 | REST Client| Client Rest pra substituir Postman |
