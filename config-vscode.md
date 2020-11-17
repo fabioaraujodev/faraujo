@@ -3,8 +3,7 @@
 | Plugin | Descrição |
 | :-------------: |:-------------|
 | Dracula Official | Thema |
-| Color Highlight
- | Mostrar cores hexadecimal #7159c1 |
+| Color Highlight | Mostrar cores hexadecimal #7159c1 |
 | DotENV | Cria syntax highlighting para arquivos .env |
 | EditorConfig | Padroniza dos editores , Encod, quebra de linha etc (cria um arquivo .editorconfig padrão) |
 | Live Server | deploy automático de css e html |
@@ -32,6 +31,6 @@ Shift + Command + P (find config)
 
 * add selection (renomear múltiplas variáveis)
 * move line (mover uma linha)
-* comment (comentário em bloco) [command + /]
+* comment (comentário em bloco) [command + / ]
 * Copy Line (duplicar linha)
 * toggle integrated (abrir o terminal)
